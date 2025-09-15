@@ -76,4 +76,4 @@ App.js
 ### 1. Clona el repositorio
 ```bash
 git clone https://github.com/wmilanv/cifra.git
-cd soporte-app
+cd cifra
