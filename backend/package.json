@@ -1,0 +1,22 @@
+{
+  "name": "solicitudes-api",
+  "version": "1.0.0",
+  "description": "API REST para gestión de solicitudes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.9.5",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.6"
+  }
+}
