@@ -75,5 +75,5 @@ App.js
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tuusuario/soporte-app.git
+git clone https://github.com/wmilanv/cifra.git
 cd soporte-app
